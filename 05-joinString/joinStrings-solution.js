@@ -18,4 +18,4 @@ module.exports = {
     fullName: typeof fullName === 'undefined' ? undefined : fullName,
     age: typeof age === 'undefined' ? undefined : age
 }
-}
+
